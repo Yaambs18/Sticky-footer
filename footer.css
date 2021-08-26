@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+.content{
+    margin-bottom: 50px;
+}
+.footer{
+    position: sticky;
+    top: 100%;
+    width: 100%;
+    background-color: rosybrown;
+    color: royalblue;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
